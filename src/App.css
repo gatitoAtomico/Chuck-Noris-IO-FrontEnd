@@ -1,0 +1,21 @@
+
+.home-form{
+    padding: 15px;
+}
+
+.scrollable{
+    overflow-y: auto;
+    max-height: 300px;
+  }
+
+
+.right {
+    float: right;
+}
+
+.card-body {
+    text-align: center;
+}
+
+
+
